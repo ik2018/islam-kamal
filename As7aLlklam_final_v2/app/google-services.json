@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858648709268",
+    "firebase_url": "https://as7a-llklam.firebaseio.com",
+    "project_id": "as7a-llklam",
+    "storage_bucket": "as7a-llklam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858648709268:android:cce2807816a9508a",
+        "android_client_info": {
+          "package_name": "com.example.islamkamal.as7allklam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858648709268-4gtvrrum1aan7qbpo6ptpo70061ik8j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.islamkamal.as7allklam",
+            "certificate_hash": "F7F602F85D1E3FA8D507F435EAABF2D8CC08B6AC"
+          }
+        },
+        {
+          "client_id": "858648709268-d11b0m7o25vejq519l4tk0v0usrltnd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2rH_VoH8tkCxvsfsKisEFuHTAl9SS1kY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858648709268-d11b0m7o25vejq519l4tk0v0usrltnd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
