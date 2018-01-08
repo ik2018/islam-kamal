@@ -1,0 +1,75 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #90dc4e
+}
+
+h2{
+	font-weight: bold;
+	color: #1276b1;
+	margin-bottom: 30px
+}
+
+.astrick{
+	position: absolute;
+    right: 21px;
+    font-size: 30px;
+    color: #FF4242;
+    top: 5px;
+} 
+ 
+.login_form{
+	margin-top: 120px;
+	width: 270px;
+}
+
+.form h2{
+	color: #1276b1
+}
+
+.form input[type=text],
+.form input[type=password]{
+	background: #ffbf00
+}
+
+.form-control{
+	position: relative;
+}
+
+
+/* members page */
+.main-table{
+	box-shadow: 0px 4px 17px rgb(113, 193, 33);
+}
+
+.main-table td{
+	background-color: #516ca0;
+	vertical-align: middle!important;
+	font-weight: bold;
+	color: #111
+}
+.main-table tr:first-child td{
+	color: #333;
+	background-color: #f20d0d;
+	font-weight: bold;
+
+}
+
+.main-table .btn{
+	padding: 3px 10px;
+}
+
+
+
+/* start bootstrap edit */
+.navbar-inverse {
+    background-color: #34495e;
+    border-color: #34495e;
+    border-radius: 0;
+    color: #f1c40f;
+}
+
+
+
